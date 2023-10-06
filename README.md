@@ -63,3 +63,6 @@ And
 ![BG3ModManager_HOk5HV4JwY](https://github.com/Cszyn/our-guilds-mods/assets/147027531/41d9e6ce-9bf1-45b8-9ec2-9e3fe9185a38)
 
 After this just launch the game as normal.
+
+Our guild discord https://discord.gg/UNtSHF2Gv
+Offical Larian Studios discord https://discord.gg/larianstudios
