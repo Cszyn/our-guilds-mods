@@ -1,2 +1,2 @@
 # our-guilds-mods
-Baulders gate 3 mods
+Requerd mods of BG3 
