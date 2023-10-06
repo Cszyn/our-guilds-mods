@@ -5,6 +5,7 @@ If any of the mods are missing or diverge from the main batch you will not be ab
 
 Installation.
 1)	Download the latest release available
+
  ![vivaldi_3BaOxqCLGI](https://github.com/Cszyn/our-guilds-mods/assets/147027531/25ccd434-a391-449d-9182-c7311ce4e6bc)
 
 You will find it under Mod_Manager_Vix_X_X_X.rar ignore any of the Source code there not required or necessary.
