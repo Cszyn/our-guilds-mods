@@ -24,14 +24,14 @@ Just click on “Extract”  Now navigate to the folder containing BG3ModManager
 ![explorer_RluDbDGG05](https://github.com/Cszyn/our-guilds-mods/assets/147027531/04a1c350-c860-473f-84ba-366bc1e7d540)
 
 3)	Modmanager will attempt to find your installation folder (it will default to Steam)
-
-![BG3ModManager_wulIuXGmwH](https://github.com/Cszyn/our-guilds-mods/assets/147027531/7fe80fc4-60c7-4714-874f-0e28807ce4b6)
-
 It might prompt you to update it. Just click download. 
 
 ![BG3ModManager_BNOWRROxJ9](https://github.com/Cszyn/our-guilds-mods/assets/147027531/769a2dee-810a-4371-a207-a62d5567ec85)
 
 4)	Welcome to BG3Modmen all you need to do is click on 4 bottons
+
+![BG3ModManager_wulIuXGmwH](https://github.com/Cszyn/our-guilds-mods/assets/147027531/b347a742-cc03-485e-9344-95ba41b7413b)
+
 1.	Go to the file tab and dropdown to “Import from archive”
 
 ![WZiQK6YMFa](https://github.com/Cszyn/our-guilds-mods/assets/147027531/06deb5cd-01e5-42d4-b1e2-f298085f29b5)
