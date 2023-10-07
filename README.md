@@ -1,5 +1,5 @@
 # our-guilds-modds
-Instructuins for Baldur’s Gate III. sessuion hosting
+Instructuins for Baldur’s Gate III. session hosting
 
 1)
   Create a new folder called Host or Vix or whatever you want, inside the AppData\Local\Larian Studios\Baldur's Gate 3\PlayerProfiles folder.
