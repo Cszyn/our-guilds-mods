@@ -12,7 +12,7 @@ Instructuins for Baldur’s Gate III. session hosting
 
   This will seperate ALL of our sessions form your main game folder. THIS WILL NOT DELETE YOUR FILES JUST SEPARATE THEM
 
-  Credits:
+  Credits
 -Mods compiled by Vix
 -Github maintained by Cyn
 -Our guild discord https://discord.gg/UNtSHF2Gv
