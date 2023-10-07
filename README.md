@@ -64,5 +64,12 @@ And
 
 After this just launch the game as normal.
 
+Credits
+
+Mods compiled by Vix
+
+Github maintained by Cyn
+
 Our guild discord https://discord.gg/UNtSHF2Gv
+
 Offical Larian Studios discord https://discord.gg/larianstudios
